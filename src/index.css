@@ -1,0 +1,14 @@
+html {
+  font: 62.5% 'Helvetica';
+  color: #555;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
